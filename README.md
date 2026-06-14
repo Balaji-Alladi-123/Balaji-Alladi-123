@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[ExpenseHub](https://github.com/Balaji-Alladi-123/ExpenseHub-Backend)** — a full-stack expense management system
+- 🔭 I'm currently working on **[AI Resume Analyzer](https://github.com/Balaji-Alladi-123/Resume_Analyzer)** — a full-stack expense management system
 - 🌱 Exploring **Spring Boot**, **REST APIs**, and **React**
 - 💡 I enjoy building practical tools that solve real-world problems
 - 📫 Reach me at: balajisatyatejaalladi@gmail.com
